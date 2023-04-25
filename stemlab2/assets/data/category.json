@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ғылым",
+    "imagePath": "assets/icons/category/science.png"
+  },
+  {
+    "id": 2,
+    "name": "Технология",
+    "imagePath": "assets/icons/category/Technology.png"
+  },
+  {
+    "id": 3,
+    "name": "Инженерия",
+    "imagePath": "assets/icons/category/engineering.png"
+  },
+  {
+    "id": 4,
+    "name": "Математика",
+    "imagePath": "assets/icons/category/math.png"
+  },
+  {
+    "id": 5,
+    "name": "English",
+    "imagePath": "assets/icons/category/language.png"
+  },
+  {
+    "id": 6,
+    "name": "Спорт",
+    "imagePath": "assets/icons/category/sports.png"
+  },
+  {
+    "id": 7,
+    "name": "Биология",
+    "imagePath": "assets/icons/category/nature.png"
+  },
+  {
+    "id": 8,
+    "name": "Музыка",
+    "imagePath": "assets/icons/category/music.png"
+  }
+]
